@@ -1,0 +1,51 @@
+{
+  "name": "addon-httpd",
+  "version": "0.0.3",
+  "description": "Basic httpd server for add-on unit testing",
+  "main": "httpd.js",
+  "keywords": [
+    "httpd",
+    "jetpack",
+    "addon",
+    "add-on",
+    "firefox"
+  ],
+  "author": {
+    "name": "Erik Vold",
+    "email": "evold@mozilla.com",
+    "url": "http://work.erikvold.com/"
+  },
+  "license": "MPL v2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikvold/addon-httpd.git"
+  },
+  "gitHead": "0dc034c4226b69d3f0436b1be700b1971063198f",
+  "bugs": {
+    "url": "https://github.com/erikvold/addon-httpd/issues"
+  },
+  "homepage": "https://github.com/erikvold/addon-httpd",
+  "_id": "addon-httpd@0.0.3",
+  "scripts": {},
+  "_shasum": "9e24c339badcd0638a25172b2c5b08ffdd17bac9",
+  "_from": "addon-httpd@*",
+  "_npmVersion": "2.1.11",
+  "_nodeVersion": "0.10.33",
+  "_npmUser": {
+    "name": "erikvold",
+    "email": "erikvvold@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "erikvold",
+      "email": "erikvvold@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "9e24c339badcd0638a25172b2c5b08ffdd17bac9",
+    "tarball": "http://registry.npmjs.org/addon-httpd/-/addon-httpd-0.0.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/addon-httpd/-/addon-httpd-0.0.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
